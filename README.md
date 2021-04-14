@@ -1,8 +1,8 @@
-# Página Web Aprende CSS desde cero a avanzado
+# Aprende CSS desde cero a avanzado
 
-![aprende ](./img/aprendecss.jpg)
+![aprende ](./assets/aprendecss.jpg)
 
 
-Página Web Aprende CSS desde cero a avanzado
+Aprende CSS desde cero a avanzado
 
 -[Página Web ](https://jhonpe.github.io/aprendecss)
